@@ -32,7 +32,7 @@
 
 | 💰 メリット | 詳細 |
 | :--- | :--- |
-| **MACC 消化** | Snowflake 利用料がコミット残高を 1 円残らず削る |
+| **MACC の消化** | Snowflake 利用料を MACC（コミット残高）に 100 % 充当でき、未消化分を無駄なく消化できる |
 | **請求一本化** | Azure 月次請求書に “Marketplace charges > Snowflake” と統合 |
 | **Private Offer 割引** | EA ボリューム割引 + Snowflake 容量割引を同時適用 |
 | **調達スピード** | Marketplace 標準契約 → PO 発行 → 数時間で環境 Ready |
